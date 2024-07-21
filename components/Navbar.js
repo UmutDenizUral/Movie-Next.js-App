@@ -12,8 +12,8 @@ const Navbar = () => {
               <div className="flex space-x-4">
                 <a href="/" className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Anasayfa</a>
                 <a href="/izlemelistem" className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">İzleme Listem</a>
-                <a href="/filmler" className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Filmler</a>
-                <a href="/diziler" className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Diziler</a>
+                <a href="/movies/film" className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Filmler</a>
+                <a href="/series/" className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Diziler</a>
               </div>
             </div>
           </div>
